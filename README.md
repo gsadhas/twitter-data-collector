@@ -1,4 +1,4 @@
-# Twitter data collection using Tweepy
+# Twitter data collection using Tweepy and MongoDB
 This repo has Python scripts to collect data from Twitter using tweepy framework. Click here for <a href="http://docs.tweepy.org/en/v3.6.0/getting_started.html"> Tweepy introduction</a>, and <a href="https://github.com/tweepy/tweepy">Tweepy Github repo</a>
 
 The scripts collect tweets from Twitter user's timeline and Twitter live stream. In addition, it dumps all the followers profile in the given user's timeline. 
